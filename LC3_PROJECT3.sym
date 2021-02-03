@@ -1,0 +1,37 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AGAIN                   300D
+//	ARRAY                   308F
+//	ASCII                   3090
+//	COMPARE                 305E
+//	COMPARE1                306C
+//	CONVERT                 3062
+//	CONVERT1                3070
+//	DATA                    30E1
+//	END_str                 3052
+//	EQUAL                   3067
+//	EQUAL1                  3075
+//	INPUT                   3041
+//	IN_String               3091
+//	LABEL                   3027
+//	LABEL1                  303A
+//	LENGTH                  308E
+//	LOOP                    3046
+//	LOOP0                   3047
+//	LOOP1                   301C
+//	LOOP2                   301E
+//	LOOP3                   3022
+//	LOOP4                   307F
+//	LOOP5                   3081
+//	LOOP7                   302F
+//	LOOP8                   3031
+//	LOOP9                   3035
+//	PRINT                   307A
+//	Pr_New_str              3087
+//	SAVE_R6                 308D
+//	SAVE_R7                 308C
+//	STOP                    305C
+//	STOP_END                3040
+//	STOP_Pr                 308A
+//	Selection               30A6
+//	Selection1              30C1
